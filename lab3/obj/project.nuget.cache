@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "UycRAVMYbPM=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Max\\Desktop\\Fs\\lab3\\lab3.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Max\\.nuget\\packages\\fsharp.core\\8.0.400\\fsharp.core.8.0.400.nupkg.sha512"
+  ],
+  "logs": []
+}
