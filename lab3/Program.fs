@@ -11,10 +11,10 @@ let rec getSeq() = seq {
                 yield n            
                 yield! getSeq()    
             else
-                printfn "Ошибка: введите число от 1 до 7"
+                printfn "Ошибка"
                 yield! getSeq()
         else
-            printfn "Ошибка: введите одну цифру" 
+            printfn "Ошибка" 
             yield! getSeq()
 }
 
