@@ -74,7 +74,7 @@ let main argv =
         
         printfn "Количество чисел, содержащих %d цифр: %d" k result
     with
-    | :? FormatException -> printfn "Ошибка: вводите только целые числа!"
+    | :? FormatException -> printfn "Ошибка"
     
     0
 
